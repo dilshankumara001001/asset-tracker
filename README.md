@@ -1,4 +1,4 @@
-#📦 Asset Tracker - QR Based Asset Management System
+# 📦 Asset Tracker - QR Based Asset Management System
 
 A comprehensive, enterprise-level **Digital Asset & Document Tracking System** built with Pure PHP and MySQL. This system replaces traditional Excel-based tracking with a modern, QR-code-driven approach, allowing organizations to track physical assets, documents, and equipment efficiently.
 
